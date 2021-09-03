@@ -11,6 +11,6 @@ namespace QuoteGenerator.Models
         public string Quotes { get; set; }
         public string Author { get; set; }
 
-        public DateTime Time { get; set; }
+      
     }
 }
